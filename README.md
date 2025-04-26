@@ -1,5 +1,11 @@
 # 🛡️ AI Safety Incident Dashboard
 
+
+![image](https://github.com/user-attachments/assets/c8484e74-dfc8-4c6c-8ed6-3bc7cd823c0d)
+
+
+![image](https://github.com/user-attachments/assets/af9dea8c-0e57-41a5-8b09-4adad63c4ef5)
+
 A modern, animated, and fully responsive dashboard for tracking and reporting AI safety incidents.  
 Built with **React**, **TypeScript**, and **Tailwind CSS** using a modular, component-driven architecture for scalability and maintainability.
 
