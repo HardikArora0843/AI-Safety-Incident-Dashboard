@@ -134,7 +134,6 @@ npm run dev
 - **Background Effects:** Includes animated particles and a gradient background for visual depth.
 - **Theme Support:** Light/dark mode toggle using React context and Tailwind’s dark classes.
 - **Accessibility:** High-contrast colors, focus states, and semantic labels for better usability.
-- **Easy Customization:** Add fields, features, or new components quickly thanks to the modular structure.
 
 ---
 
