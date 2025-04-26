@@ -21,7 +21,7 @@ Built with **React**, **TypeScript**, and **Tailwind CSS** using a modular, comp
 
 - **Language:** TypeScript
 - **Framework:** [React](https://react.dev/)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/) (with custom animations)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **Icons:** [lucide-react](https://lucide.dev/)
 - **Build Tool:** [Vite](https://vitejs.dev/)
 
